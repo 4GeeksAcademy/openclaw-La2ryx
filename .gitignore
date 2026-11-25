@@ -1,0 +1,13 @@
+# OpenClaw secrets - DO NOT COMMIT
+/root/.openclaw/openclaw.json
+/root/.openclaw/client/
+/root/.openclaw/state/
+/root/.openclaw/control/
+/root/.openclaw/logs/
+/root/.openclaw/tmp/
+/root/.openclaw/*.bak
+/root/.openclaw/*.bak.*
+**/*.sqlite
+**/*.sqlite-shm
+**/*.sqlite-wal
+.env
